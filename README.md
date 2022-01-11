@@ -2,7 +2,7 @@
 
 
 ## 뉴스와 커뮤니티의 감성 분류를 이용한 트레이딩 시스템
-
+- 교내 학술회 장려상
 - 연구 배경 및 목적
 
 ![image](https://user-images.githubusercontent.com/45275607/143391435-0f939d61-9117-4e9b-af39-6a0cdf90a178.png)
